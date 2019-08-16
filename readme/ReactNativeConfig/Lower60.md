@@ -47,9 +47,13 @@ react-native link appcenter-crashes
 - Thêm file `AppCenter-Config.plist` vừa tạo vào project
   - Mở file .xcworkspace bằng xcode
   - Chuột phải vào tên project chọn **Add Files to {tênproject}**
-    ![img](../../readmeasset/addToXcode.png)
-  - Tìm đến file `AppCenter-Config.plist` vừa tạo
-    ![img](../../readmeasset/pickFileConfig.png)
+
+![img](../../readmeasset/addToXcode.png)
+
+- Tìm đến file `AppCenter-Config.plist` vừa tạo
+
+![img](../../readmeasset/pickFileConfig.png)
+
 - Cấu hình file `AppDelegate.m` để có thể sử dụng
 
   - import :
