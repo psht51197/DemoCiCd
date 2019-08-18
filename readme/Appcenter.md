@@ -20,3 +20,9 @@
 > Mỗi lần tạo mới app chỉ dùng được cho một hệ điều hành
 >
 > Tạo mới 2 app riêng biệt để có thể dùng cho cả Android và IOS
+
+- Sau khi tạo app xog, sẽ có được key ở trang overview
+
+![img](../readmeasset/dashboard2.png)
+
+- key này được dùng để tích họp vào project ở bước cài đặt với [React-Native](./ReactNative.md)
