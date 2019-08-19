@@ -52,7 +52,7 @@
 
     > Project: pakage.json - thông tin dự án (tên, version, dependency,...)
     >
-    > Share Scheme: Scheme build (ios, tvos)
+    > Share Scheme: [**Scheme Build**](./readme/iosConfig/iosConfigScheme.md) (ios, tvos)
     >
     > Xcode version: chọn version xcode để build
     >
@@ -68,7 +68,7 @@
     >
     > Environment variables: custom biến môi trường
     >
-    > Sign builds: cung cấp certificate để có thể build ra .ipa file và test trên máy thật
+    > Sign builds: cung cấp [**Certificate**](./readme/iosConfig/iosConfigCertificate.md) và [**Provisioning Profile**](./readme/iosConfig/iosConfigProvisioning.md) để có thể build ra .ipa file và test trên máy thật
     >
     > Distribute builds: lựa chọn cách build (có thể gữi tới những thành viên trong dự án thông qua VSC hoặc release lên App Store )
 
@@ -107,6 +107,6 @@
       > vào file .gitignore bỏ đi phần ignore keystore trong dự án
       </details>
 
-- Sau khi build xog có thể download ngay
+- Sau khi build xong có thể download ngay
 
   ![img](./readmeasset/done.png)
