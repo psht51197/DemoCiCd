@@ -20,7 +20,7 @@
   >
   > _**(3)** ok để tạo mới_
 
-- Tìm scheme trong manage scheme và **chắc chắn đã tick vào shared **
+- Tìm scheme trong manage scheme và **chắc chắn đã tick vào shared**
 
   ![img](../../readmeasset/sharetick.png)
 
