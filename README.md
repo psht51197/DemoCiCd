@@ -91,6 +91,9 @@
     >
     > Nodejs version: chọn version nodejs để load các dependency
     >
+    > [Build scripts]('./readme/BuildScript.md): chèn script trong các giai đoạn build
+    > có thể dùng để fix lỗi thư viện nếu project dùng androidX
+    >
     > Build Frequency: chọn cách build ( build mỗi khi branch đc push code lên hoặc build bằng tay)
     >
     > Automatically increment build number: tự động gia tăng phiên bản build
